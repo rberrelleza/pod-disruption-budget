@@ -1,0 +1,7 @@
+apiVersion: v2
+name: hello-world-pdb
+description: Sample on how to use Pod Disruption Budgets with Okteto
+type: application
+version: 0.1.0
+appVersion: 1.0.0
+icon: https://raw.githubusercontent.com/okteto/icons/main/hello-world.png
